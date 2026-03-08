@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Zephyr Project Contributor](zephyr-technical-contributor.png)](https://www.credly.com/badges/22ca8d35-22ce-4347-8416-e09e2c72b325/public_url)
+
 <!--
 **ahmedvvaqar/ahmedvvaqar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
